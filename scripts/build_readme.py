@@ -4,6 +4,8 @@ import argparse
 import json
 import re
 from pathlib import Path
+import urllib.parse
+
 
 def main():
     parser = argparse.ArgumentParser(description="Build README from the notes cache with flexible titles.")
@@ -73,6 +75,19 @@ def main():
                 detailed_summary = data.get("detailed_summary", "").strip()
                 official_name = data.get("official_name", "").strip()
                 high_level_modules = data.get("high_level_modules", detailed_summary).strip()
+                md5_hashes = data.get("md5_hashes", {})
+
+                # Determine URL-encoded link target
+                link_target = ""
+                if len(md5_hashes) == 1:
+                    file_path = list(md5_hashes.keys())[0]
+                    safe_path = "/".join(urllib.parse.quote(part) for part in Path(file_path).parts)
+                    link_target = f"./{safe_path}"
+                elif len(md5_hashes) > 1:
+                    file_path = list(md5_hashes.keys())[0]
+                    parent_dir = Path(file_path).parent
+                    safe_path = "/".join(urllib.parse.quote(part) for part in parent_dir.parts)
+                    link_target = f"./{safe_path}"
 
                 # Choose formatting style
                 if args.style == "generated":
@@ -84,8 +99,11 @@ def main():
                 else:
                     formatted_desc = old_desc
 
-                # Reconstruct line, maintaining raw_code and course_name
-                new_line = f"| **{raw_code}** | {course_name} | {formatted_desc} |\n"
+                # Reconstruct line, making raw_code a link and maintaining course_name
+                if link_target:
+                    new_line = f"| [**{raw_code}**]({link_target}) | {course_name} | {formatted_desc} |\n"
+                else:
+                    new_line = f"| **{raw_code}** | {course_name} | {formatted_desc} |\n"
                 new_lines.append(new_line)
                 updated_count += 1
             else:
