@@ -1,0 +1,345 @@
+{
+    "APSC100": {
+        "md5_hashes": {
+            "APSC/APSC100.pdf": "c7051fabe2a587c2a83e1d29e10ae14c"
+        },
+        "official_name": "Introduction to Engineering I",
+        "generated_title": "Engineering Design & Ethics",
+        "detailed_summary": "engineering design process; decision-making frameworks; sustainability considerations; technical communication; stakeholder analysis; design specifications; weighted decision matrices; ethical theories (utilitarianism, duty-based, rights-based); 7 Cs of effective communication",
+        "high_level_modules": "Engineering Design Process; Ethical Decision Making; Technical Communication; Sustainability Principles"
+    },
+    "APSC101": {
+        "md5_hashes": {
+            "APSC/APSC101.pdf": "3a68ed5e8b9ebcd90af2dd5c2333bb70"
+        },
+        "official_name": "Introduction to Engineering II",
+        "generated_title": "Engineering Risk & Sustainability",
+        "detailed_summary": "engineering risk management (identification, analysis, mitigation strategies); hierarchy of controls; engineering drawings; team dynamics; diversity; feedback; engineering proposal process; sustainability; life cycle assessment; appropriate technology",
+        "high_level_modules": "Engineering Risk Management; Team Dynamics; Engineering Proposals; Sustainability Assessment"
+    },
+    "APSC160": {
+        "md5_hashes": {
+            "APSC/APSC160.pdf": "e4a0486667585c44716671b16fe0086c"
+        },
+        "official_name": "Introduction to Computation in Engineering Design",
+        "generated_title": "C Programming Fundamentals",
+        "detailed_summary": "C programming concepts; binary/hexadecimal conversions; control flow (loops, conditionals); functions; file I/O; arrays; string manipulation; Arduino programming; digital/analog I/O; serial communication; random number generation",
+        "high_level_modules": "C Programming Fundamentals; Control Flow; Arduino Programming"
+    },
+    "APSC278": {
+        "md5_hashes": {
+            "APSC/APSC278.pdf": "855d4eb581ea9c4bc0af50df851af915"
+        },
+        "official_name": "Engineering Materials",
+        "generated_title": "Material Properties & Failure",
+        "detailed_summary": "material properties; chemical bonding; crystal structures (BCC, FCC, HCP); mechanical behaviors (elastic/plastic deformation, stress-strain relationships, toughness); material failure mechanisms (fracture, fatigue, ductile-brittle transition); strengthening materials; risk assessment in engineering systems",
+        "high_level_modules": "Material Properties; Crystal Structures; Mechanical Behavior; Material Failure; Strengthening Mechanisms"
+    },
+    "CPEN221": {
+        "md5_hashes": {
+            "CPEN/CPEN221/Module 4 Reference Sheet.pdf": "fe4889e79b252157234575eb8378c63f",
+            "CPEN/CPEN221/Module 1 Reference Sheet.pdf": "5fe06cb179f96a0376c3e45d6425cc3d",
+            "CPEN/CPEN221/Module 2 Reference Sheet.pdf": "611d674a5881e8e3ef1aff9d5a12cc3f",
+            "CPEN/CPEN221/Module 3 Reference Sheet.pdf": "a9d0598079cb137da0c51dd3f529b69e"
+        },
+        "official_name": "Software Construction",
+        "generated_title": "Concurrency & Software Design",
+        "detailed_summary": "concurrency; multi-threading; parallel programming; synchronization primitives (Fork-Join parallelism); software design principles (mutability, immutability, Abstract Data Types (ADTs), representation invariants, Liskov Substitution Principle); computer systems; compilers; interpreters; regular expressions",
+        "high_level_modules": "Software Design Principles; Computer Systems; Object-Oriented Programming; Concurrency and Parallelism"
+    },
+    "CPEN312": {
+        "md5_hashes": {
+            "CPEN/CPEN312/Microcomputers.pdf": "0ceac4f9bfb7b1e59f9fc8e0c5b5d0d7",
+            "CPEN/CPEN312/Digital Logic.pdf": "4414a09dae22aaa9cec5cdfde57bd4ad"
+        },
+        "official_name": "Digital Systems and Microcomputers",
+        "generated_title": "8051 Microcomputers & Digital Logic",
+        "detailed_summary": "8051 microcontroller architecture; instruction sets; addressing modes; memory organization; interrupts; timers; assembly language programming; digital logic fundamentals; Boolean algebra (De Morgan's theorems); K-maps; combinational circuits (adders, encoders, multiplexers); sequential circuits (flip-flops, counters, shift registers)",
+        "high_level_modules": "Digital Logic Fundamentals; Boolean Algebra;  Microcontroller Architecture; Assembly Programming; "
+    },
+    "ELEC204": {
+        "md5_hashes": {
+            "ELEC/ELEC204.pdf": "3601e8a6d7efda97f641d8daebaafe66"
+        },
+        "official_name": "Linear Circuits",
+        "generated_title": "Linear Circuit Analysis Fundamentals",
+        "detailed_summary": "fundamental circuit concepts; voltage; power; Ohm's Law; Kirchhoff's Laws (KCL, KVL); resistor connections; network transformations; circuit analysis methods (Nodal analysis, Mesh analysis, Source Transformation, Th\u00e9venin's theorem, Norton's theorem); first and second-order RC/RLC circuits; transient and steady-state responses; unit step and impulse functions",
+        "high_level_modules": "Fundamental Circuit Concepts; Circuit Analysis Methods; First- and Second-Order Circuits"
+    },
+    "ELEC221": {
+        "md5_hashes": {
+            "ELEC/ELEC221.pdf": "fa83b811729e286cfa0de01c169e2015"
+        },
+        "official_name": "Signals and Systems",
+        "generated_title": "Signals, Systems, and Transforms",
+        "detailed_summary": "continuous and discrete-time signals; Fourier series and transforms (DTFT, CTFT); Linear Time-Invariant (LTI) systems analysis (convolution, impulse response, frequency response); signal energy/power; complex exponentials; sampling; modulation; Laplace Transform (Region of Convergence (ROC))",
+        "high_level_modules": "Fourier Analysis; LTI System Analysis; Sampling and Modulation; Laplace Transform"
+    },
+    "ELEC302": {
+        "md5_hashes": {
+            "ELEC/ELEC302.pdf": "2596fbe0986e6232f5c8f6059a20e31e"
+        },
+        "official_name": "Electronic Circuits for Electromechanical Design",
+        "generated_title": "Electronic Circuits & Transistors",
+        "detailed_summary": "Laplace Transforms for circuit analysis; Nodal and Loop analysis; voltage regulators (linear, switching, buck converters); semiconductor devices (diodes (pn junction, Zener)); Bipolar Junction Transistors (BJTs) (small-signal models, configurations); MOS transistors (NMOS, PMOS) (structures, operating regions, amplifier configurations)",
+        "high_level_modules": "Voltage Regulators; Semiconductor Diodes; BJT Transistors; MOS Transistors"
+    },
+    "ELEC341": {
+        "md5_hashes": {
+            "ELEC/ELEC341.pdf": "b481d7306ebd146a7b6a0160d08b31a0"
+        },
+        "official_name": "Systems and Control",
+        "generated_title": "Control Systems & PID Design",
+        "detailed_summary": "Laplace Transforms for LTI system analysis; transfer functions; poles; zeros; stability criteria; step responses for first and second-order systems; block diagram manipulation; modeling mechanical systems with electrical analogies; PID control (components, design process, delays, filters, non-linearities)",
+        "high_level_modules": "LTI System Analysis; System Stability; Block Diagram Modeling; PID Control"
+    },
+    "ELEC431": {
+        "md5_hashes": {
+            "ELEC/ELEC431.pdf": "8b360c8ab92f3cf70281c63da6651157"
+        },
+        "official_name": "Communication Systems",
+        "generated_title": "Communication Systems & Error Correction",
+        "detailed_summary": "communication system components; probability and random processes; modulation techniques (PAM, PSK); error correction coding (Hamming codes, CRC, convolutional codes); signal space representation; power spectral density; Nyquist criterion; error probability calculations",
+        "high_level_modules": "Probability and Random Processes; Modulation Techniques; Information Theory and Compression Encoding; Error Correction Coding"
+    },
+    "ENPH257": {
+        "md5_hashes": {
+            "ENPH/ENPH257.pdf": "e50558a145058a9a648bf6379fa324f9"
+        },
+        "official_name": "Heat and Thermodynamics",
+        "generated_title": "Thermodynamics & Heat Transfer",
+        "detailed_summary": "fundamental laws of thermodynamics; ideal gas law; first and second laws of thermodynamics; internal energy; enthalpy; free energy; heat transfer mechanisms (conduction, convection, radiation); thermodynamic cycles (Carnot, Otto, Rankine)",
+        "high_level_modules": "Fundamental Laws of Thermodynamics; Thermodynamic Cycles; Heat Transfer Mechanisms; "
+    },
+    "ENPH270": {
+        "md5_hashes": {
+            "ENPH/ENPH270.pdf": "d435a45e96f9d12f6a4cd1d7cc57c987"
+        },
+        "official_name": "Mechanics II",
+        "generated_title": "Rigid Body Kinematics & Dynamics",
+        "detailed_summary": "rigid body kinematics (planar motion types, instantaneous center of rotation, relative velocity/acceleration); dynamics (Newton's laws, torque, moment of inertia, parallel axis theorem, work-energy principles for rigid bodies)",
+        "high_level_modules": "Rigid Body Kinematics; Rigid Body Dynamics; Work-Energy Principles"
+    },
+    "MATH101": {
+        "md5_hashes": {
+            "MATH/MATH101.pdf": "73f292b2d59ff43728e06f667b769195"
+        },
+        "official_name": "Integral Calculus with Applications",
+        "generated_title": "Integral Calculus Techniques",
+        "detailed_summary": "definite and indefinite integrals; fundamental theorems of calculus; integration techniques (u-substitution, integration by parts, partial fractions); applications (areas, volumes of revolution, centroids); numerical integration methods (Riemann sums, Simpson's rule)",
+        "high_level_modules": "Integration Techniques; Applications of Integration; Sequences and Series"
+    },
+    "MATH152": {
+        "md5_hashes": {
+            "MATH/MATH152.pdf": "57f282e0271e6e06b7e7970389fb95d8"
+        },
+        "official_name": "Linear Algebra",
+        "generated_title": "Vectors, Matrices & Eigenvalues",
+        "detailed_summary": "vector operations; dot and cross products; determinants; applications to lines and planes in 2D and 3D space; matrix algebra; inverses; linear transformations; eigenvalues; eigenvectors; solving differential equations; analyzing LCR circuits",
+        "high_level_modules": "Vector Algebra; Matrix Algebra; Linear Transformations; Eigenvalues and Eigenvectors"
+    },
+    "MATH217": {
+        "md5_hashes": {
+            "MATH/MATH217.pdf": "3ef15e81e4b17f0345db9ac732c59532"
+        },
+        "official_name": "Multivariable and Vector Calculus",
+        "generated_title": "Vector Calculus & Differential Forms",
+        "detailed_summary": "multivariable calculus concepts; vectors; partial derivatives; gradients; critical points; Lagrange multipliers; double and triple integrals in various coordinate systems; line integrals; surface integrals; fundamental theorems (Green's Theorem, Stokes' Theorem, Divergence Theorem); differential forms; de Rham cohomology",
+        "high_level_modules": "Multivariable Differentiation and Integration; Vector Calculus Theorems; Differential Forms"
+    },
+    "MATH255": {
+        "md5_hashes": {
+            "MATH/MATH255.pdf": "987729b34b5b328a5aa6e91f6b695b5a"
+        },
+        "official_name": "Ordinary Differential Equations",
+        "generated_title": "ODEs: Solutions & Transforms",
+        "detailed_summary": "first-order ODEs (separable, linear, exact, autonomous); second-order linear ODEs (homogeneous, non-homogeneous, mechanical vibrations); solution methods (integrating factors, undetermined coefficients, variation of parameters, Laplace transforms); systems of ODEs analysis; phase plane sketching",
+        "high_level_modules": "First- and Second-Order ODEs; ODE Solution Methods; Systems of ODEs"
+    },
+    "MATH257": {
+        "md5_hashes": {
+            "MATH/MATH257.pdf": "da00b01f77a00d6f398752bd2760f382"
+        },
+        "official_name": "Partial Differential Equations",
+        "generated_title": "PDEs: Fourier & Eigenfunctions",
+        "detailed_summary": "solving ODEs using power series; PDEs (Heat equation, Wave equation, Laplace equation); solution techniques (separation of variables, Fourier series and transforms, eigenfunction expansions, D'Alembert's solution); Sturm-Liouville problems",
+        "high_level_modules": "Power Series for ODEs; Partial Differential Equations; PDE Solution Techniques; Sturm-Liouville Problems"
+    },
+    "MATH305": {
+        "md5_hashes": {
+            "MATH/MATH305.pdf": "8996be4730de391faf1e53b7ddbe09a7"
+        },
+        "official_name": "Applied Complex Analysis",
+        "generated_title": "Complex Functions & Residue Theory",
+        "detailed_summary": "complex numbers (Cartesian and polar forms); functions of complex variables; derivatives (Cauchy-Riemann equations, analytic functions); complex integration; Cauchy's Integral Theorem; Cauchy's Integral Formula; Taylor series; Laurent series; Residue Theorem (applications to real integrals, conformal mappings)",
+        "high_level_modules": "Complex Numbers; Complex Functions; Complex Integration; Series Expansions; Residue Theorem"
+    },
+    "MATH307": {
+        "md5_hashes": {
+            "MATH/MATH307.pdf": "3812be748f97fd14b86c72b96e7d0441"
+        },
+        "official_name": "Applied Linear Algebra",
+        "generated_title": "Linear Algebra & SVD/DFT",
+        "detailed_summary": "solving systems of linear equations (Gaussian elimination, LU decomposition); vector spaces; norms; inner products; orthogonalization (Gram-Schmidt, QR decomposition); eigenvalues; eigenvectors; diagonalization; Singular Value Decomposition (SVD); Discrete Fourier Transform (DFT) (properties, applications)",
+        "high_level_modules": "Linear Equation Systems; Vector Spaces; Orthogonalization; Eigenvalue Problems; Matrix Decompositions"
+    },
+    "MATH318": {
+        "md5_hashes": {
+            "MATH/MATH318.pdf": "ba98683b2518c088522f7b1d91689139"
+        },
+        "official_name": "Probability with Physical Applications",
+        "generated_title": "Probability, Random Variables, Markov Chains",
+        "detailed_summary": "probability concepts (counting, conditional probability); discrete and continuous random variables (Bernoulli, Poisson, Normal, Gamma); statistical estimation; confidence intervals; hypothesis testing; Markov Chains (classification, stationary distributions, MCMC methods)",
+        "high_level_modules": "Probability Fundamentals; Random Variables; Statistical Inference; Markov Chains"
+    },
+    "MATH400": {
+        "md5_hashes": {
+            "MATH/MATH400.pdf": "53de991740cef8e43814a2133e22c21d"
+        },
+        "official_name": "Applied Partial Differential Equations",
+        "generated_title": "PDEs, Fourier, Laplace, Characteristics",
+        "detailed_summary": "methods for solving Partial Differential Equations (classification, Fourier Series, Eigenfunction Expansion, Laplace Transforms); Heat equation; Wave equation; Bessel's equation; Method of Characteristics for first-order PDEs (shock waves, expansion waves)",
+        "high_level_modules": "Eigenfunction Expansion; Wave, Heat and Bessel's Equations; Method of Characteristics"
+    },
+    "MECH260": {
+        "md5_hashes": {
+            "MECH/MECH260.pdf": "96fc7e92f538138388262965bd10354f"
+        },
+        "official_name": "Introduction to Mechanics of Materials",
+        "generated_title": "Stress, Strain, Beams, Buckling",
+        "detailed_summary": "stress and strain concepts; Hooke's Law; Poisson's ratio; material properties; Mohr's Circle for stress analysis; yield criteria (Tresca, Von Mises); pressure vessel design; torsion; bending; shear force and bending moment diagrams; beam deflection methods; column buckling analysis (Euler's formula, secant formula)",
+        "high_level_modules": "Stress and Strain; Material Properties; Stress Analysis; Torsion and Bending; Column Buckling"
+    },
+    "MECH280": {
+        "md5_hashes": {
+            "MECH/MECH280.pdf": "cdde0df9cdc02a31d685eb3d5d42fec3"
+        },
+        "official_name": "Introduction to Fluid Mechanics",
+        "generated_title": "Fluid Properties, Flow, Pumps, Turbines",
+        "detailed_summary": "fluid properties (density, viscosity, continuum hypothesis); fluid statics (pressure measurement, hydrostatic force); fluid kinematics; conservation laws (mass, momentum, energy); dimensional analysis; pipe flow; pumps; turbines (performance, design considerations)",
+        "high_level_modules": "Fluid Properties; Fluid Statics and Kinematics; Conservation Laws and Dimensionless Quantities; Fluid System Design"
+    },
+    "MECH325": {
+        "md5_hashes": {
+            "MECH/MECH325.pdf": "da7dfb6f1ff009988dec80a56562b1ab"
+        },
+        "official_name": "Machine Design",
+        "generated_title": "Machine Elements, Design, Failure",
+        "detailed_summary": "machine design concepts; flexible drives (belts, chains); gears (spur, helical, bevel); bearings (roller, ball); stress analysis; failure theories (static, fatigue); design of shafts, keys, couplings, and springs (selection, failure modes)",
+        "high_level_modules": "Machine Design Principles; Power Transmission Elements; Stress and Failure Analysis; Component Design"
+    },
+    "MECH360": {
+        "md5_hashes": {
+            "MECH/MECH360.pdf": "ee0c908a02d1dfa41ab16d2f4c382be3"
+        },
+        "official_name": "Mechanics of Materials",
+        "generated_title": "Stress, Strain, Beam Deflection",
+        "detailed_summary": "normal, shear, and bending stress and strain concepts; Hooke's Law; torsion; beam deflection (differential equations, superposition); critical buckling load formulas; Mohr's Circle for principal stresses; Castigliano's Theorem for strain energy",
+        "high_level_modules": "Torsion and Bending; Beam Deflection; Column Buckling; Mohr's Circle; Strain Energy"
+    },
+    "PHYS158": {
+        "md5_hashes": {
+            "PHYS/PHYS158/Magnetism.pdf": "6b053dfe241b51b3b74cbf7215c0fbe2",
+            "PHYS/PHYS158/DC Circuits.pdf": "87a7b6c41258da1fe61f3a0e20705440",
+            "PHYS/PHYS158/Electrostatics.pdf": "79bb1adcf7184fbcfd7cc85437ea06d2",
+            "PHYS/PHYS158/Waves.pdf": "ac66bab62462dc866a99026535ca82be",
+            "PHYS/PHYS158/Activity Book.pdf": "8bb359ba369b08c581dec7efbaa90353",
+            "PHYS/PHYS158/AC Circuits.pdf": "29ca78ad7ab74474623961ab6dc11b86",
+            "PHYS/PHYS158/Electromagnetic Induction.pdf": "864fd94d2b86900394358667e3c47108"
+        },
+        "official_name": "Introductory Physics for Engineers II",
+        "generated_title": "Electromagnetism, Waves, Circuits",
+        "detailed_summary": "electricity and magnetism concepts; magnetic forces on charges and currents (F=qvxB, F=ILxB); Biot-Savart Law; Ampere's Law; Gauss's Law for magnetism; DC circuits (resistors, capacitors, inductors); wave phenomena (interference, beats, standing waves); light behavior in different media; path difference calculations; phase shifts in interference patterns",
+        "high_level_modules": "Electricity and Magnetism; AC/DC Circuits; Wave Phenomena and Interference"
+    },
+    "PHYS250": {
+        "md5_hashes": {
+            "PHYS/PHYS250.pdf": "d9f20cb1b3f447a077828e697d02e170"
+        },
+        "official_name": "Introduction to Modern Physics",
+        "generated_title": "Relativity, Quantum & Atomic Models",
+        "detailed_summary": "Special Relativity; Lorentz transformations; time dilation; relativistic energy-momentum relation E\u00b2 = P\u00b2c\u00b2 + (mc\u00b2)\u00b2; Quantum Mechanics; photoelectric effect; Compton scattering; de Broglie wavelength; Heisenberg's Uncertainty Principle; Schr\u00f6dinger equation for various potentials; Bohr's atomic model; quantum numbers (n, l, m)",
+        "high_level_modules": "Special Relativity; Quantum Mechanics; Atomic Models; Wave-Particle Duality"
+    },
+    "PHYS301": {
+        "md5_hashes": {
+            "PHYS/PHYS301.pdf": "67d0f85f43aef57eae34978a2f00ead9"
+        },
+        "official_name": "Electricity and Magnetism",
+        "generated_title": "Electrostatics, Potentials, Capacitors",
+        "detailed_summary": "electrostatics; coordinate systems; charge distributions (volume, surface, line, point); Coulomb's Law; Gauss's Law (\u222eE.dA=Qenc/\u03b5\u2080); electric potential (E=-\u2207V, V=kQ/r); capacitance (C=Q/\u0394V) for various geometries; energy stored in capacitors; multipole expansion; polarization; dielectric materials",
+        "high_level_modules": "Electrostatics; Electric Potential; Capacitance; Dielectric Materials; Multipole Expansion"
+    },
+    "PHYS304": {
+        "md5_hashes": {
+            "PHYS/PHYS304.pdf": "ef3110235374706019df10a4cd4c2433"
+        },
+        "official_name": "Introduction to Quantum Mechanics",
+        "generated_title": "Wave Functions, Operators, Spin",
+        "detailed_summary": "time-dependent and independent Schr\u00f6dinger equations; wave function normalization; expectation values; Heisenberg uncertainty principle; solutions for infinite square wells, harmonic oscillators, hydrogen atom; angular momentum operators; commutators; spin; Pauli matrices",
+        "high_level_modules": "Schr\u00f6dinger Equation; Quantum Systems; Quantum Mechanics Formalism; Spin and Pauli Matrices"
+    },
+    "PHYS350": {
+        "md5_hashes": {
+            "PHYS/PHYS350.pdf": "fb46aca103ee60dbddbbcb71ab31fefa"
+        },
+        "official_name": "Applications of Classical Mechanics",
+        "generated_title": "Classical Mechanics & Dynamics",
+        "detailed_summary": "Lagrangian and Hamiltonian mechanics; generalized coordinates; equations of motion; variational principles; Poisson brackets; small oscillations; normal modes; two-body problems (Kepler's laws); rigid body dynamics (Euler's equations)",
+        "high_level_modules": "Lagrangian and Hamiltonian Mechanics; Variational Principles; Rigid Body Dynamics; Oscillations, Orbits and Rotation"
+    },
+    "PHYS401": {
+        "md5_hashes": {
+            "PHYS/PHYS401.pdf": "bbb609c358550d7f4d4afe33dfa2b542"
+        },
+        "official_name": "Electromagnetic Theory",
+        "generated_title": "Electromagnetism & Relativity",
+        "detailed_summary": "Maxwell's equations; conservation laws; Poynting vector; electromagnetic wave propagation; polarization; relativistic electromagnetism (Lorentz transformations, 4-vectors, field tensor)",
+        "high_level_modules": "Maxwell's Equations; Electromagnetic Waves; Poynting Vector; Relativistic Electromagnetism"
+    },
+    "PHYS403": {
+        "md5_hashes": {
+            "PHYS/PHYS403.pdf": "941f180ff2676072157875148abdf93b"
+        },
+        "official_name": "Statistical Mechanics",
+        "generated_title": "Statistical Ensembles, Phase Transitions",
+        "detailed_summary": "entropy (S=kln\u03a9, S=-k\u03a3p_ilnp_i); microcanonical, canonical, and grand canonical ensembles; partition functions (Z); thermodynamic potentials (F, \u03a9_G); Maxwell relations; response functions; quantum gases (Fermi-Dirac, Bose-Einstein, Planck distributions); phase transition models (Ising equation, Van der Waals equation)",
+        "high_level_modules": "Statistical Ensembles; Partition Functions; Quantum Gases; Phase Transition Models"
+    },
+    "PHYS407": {
+        "md5_hashes": {
+            "PHYS/PHYS407.pdf": "3016ee5c3450c6d1a97bc965d99d8f6e"
+        },
+        "official_name": "Introduction to General Relativity",
+        "generated_title": "General Relativity & Spacetime",
+        "detailed_summary": "general relativity; special relativity; Lorentz transformations; 4-vectors in spacetime; metric tensor; Christoffel symbols; geodesic equations; Riemann tensor; Ricci tensor; Einstein tensors; Schwarzschild solution for black holes",
+        "high_level_modules": "Special Relativity; General Relativity; Spacetime Geometry; Orbits and Black Hole Solutions"
+    },
+    "PHYS408": {
+        "md5_hashes": {
+            "PHYS/PHYS408.pdf": "44e860918dfee675b42b8c0aa939d77d"
+        },
+        "official_name": "Optics",
+        "generated_title": "Wave Optics, Polarization, Lasers",
+        "detailed_summary": "Maxwell's equations; wave optics phenomena (diffraction (Fraunhofer, Fresnel)); wave types (plane, spherical, Gaussian) and their equations; polarization states; Jones vectors; optical birefringence; wave plates; optical cavities and lasers (rate equations, gain, saturation, Q-switching)",
+        "high_level_modules": "Wave Optics; Diffraction Phenomena; Polarization Optics; Optical Cavities; Laser Physics"
+    },
+    "CHEM154": {
+        "md5_hashes": {
+            "CHEM/CHEM154.pdf": "730fe944d3aba74dbdb6d51859772e2f"
+        },
+        "official_name": "Chemistry for Engineering",
+        "generated_title": "Atomic Structure, Bonding, Thermodynamics",
+        "detailed_summary": "fundamental chemistry concepts; atomic structure; chemical bonding; periodic trends; molecular geometry (VSEPR); intermolecular forces; phases of matter; thermodynamics (energy, enthalpy, entropy); chemical kinetics (rate laws, mechanisms); electrochemistry (cell potentials, Nernst equation)",
+        "high_level_modules": "Atomic Structure; Chemical Bonding; Thermodynamics; Chemical Kinetics; Electrochemistry"
+    },
+    "LATN101": {
+        "md5_hashes": {
+            "LATN/LATN101.pdf": "de5c20f8fdfc3f0890ced906e0e51d5e"
+        },
+        "official_name": "Beginning Latin I",
+        "generated_title": "Latin Grammar & Declensions",
+        "detailed_summary": "beginning Latin grammar; verb conjugations (present, perfect, imperative, subjunctive); irregular verbs ('sum', 'eo'); noun declensions (1st, 2nd); declension of demonstrative, personal, and interrogative pronouns",
+        "high_level_modules": "Latin Grammar; Verb Conjugations; Noun Declensions; Pronoun Declensions"
+    }
+}
